@@ -1,0 +1,11 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#3C2446",
+    "titleBar.activeBackground": "#553262",
+    "titleBar.activeForeground": "#FBF9FC"
+  },
+  "files.exclude": {
+    ".vscode": true
+  },
+  "workspace.isHidden": false
+}
